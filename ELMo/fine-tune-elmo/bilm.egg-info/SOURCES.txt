@@ -1,0 +1,12 @@
+README.md
+setup.py
+bilm/__init__.py
+bilm/data.py
+bilm/elmo.py
+bilm/model.py
+bilm/training.py
+bilm.egg-info/PKG-INFO
+bilm.egg-info/SOURCES.txt
+bilm.egg-info/dependency_links.txt
+bilm.egg-info/not-zip-safe
+bilm.egg-info/top_level.txt
