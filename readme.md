@@ -2,12 +2,12 @@
 python >= 3.6
 pytorch == 0.3.0
 ## Dataset
-|BC|PB|ZX
---|:--:|:--:|--:
-train | 52,433|5,140|1,649
-dev | 998 |1,300 |500
-test |1,995 |2,600 | 1,100
-unlabeled | - | 326,981 |32,492
+|          |BC     |PB      |ZX    |
+|:--------:|:-----:|:-----: |:----:|
+|train     | 52,433|5,140   |1,649 |
+|dev       | 998   |1,300   |500   |
+|test      |1,995  |2,600   | 1,100|
+|unlabeled | -     | 326,981|32,492|
 
 ## Performance
   Final results on the test data:
