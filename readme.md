@@ -12,7 +12,7 @@ pytorch == 0.3.0
 ## Performance
   Final results on the test data:
   
-|              | PB（uas|las）| - |ZX(uas|las)|- |
+|              | PB(uas|las)| -       |ZX(uas|las)|  -    |
 |:------------:|:---------:|:--------:|:-------:|:-------:|
 |BC-train      |67.55      |61.01     |**68.44**|59.55    |
 |PB-train      |**74.52**  |**69.02** |51.62    |40.36    |
